@@ -1,5 +1,5 @@
 public with sharing class ManagementClass {
     public ManagementClass() {
-          System.debug('class enter with val');
+          System.debug('class  to senter with val');
     }
 }
